@@ -10,8 +10,7 @@
 <p>A lo largo del año actualizaré los proyectos. Da click en cada módulo para ir directamente a su repositorio.</p>
 <ol>
     <li><a href="https://github.com/0xluish/Desarrollo-Web">Desarrollo Web</a> (Diciembre 2022 - Febrero 2023)</li>
-    <li><!--<a href="https://github.com/0xluish/03-Carrera-Fullstack/tree/master/02.%20JavaScript">JavaScript</a>-->
-        JavaScript (Febrero 2023 - Abril 2023)</li>
+    <li><a href="https://github.com/0xluish/JavaScript">JavaScript</a>JavaScript (Febrero 2023 - Abril 2023)</li>
     <li><!--<a href="https://github.com/0xluish/03-Carrera-Fullstack/tree/master/02.%20ReactJS">ReactJS</a>-->
         React JS (Mayo 2023 - Junio 2023)</li>
     <li><!--<a href="https://github.com/0xluish/03-Carrera-Fullstack/tree/master/02.%20Programacion%20Backend">Prograación Backedn</a>-->
